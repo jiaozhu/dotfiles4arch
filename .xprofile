@@ -1,0 +1,4 @@
+#!/bin/bin/env sh
+
+setbg &
+compton --config ~/.config/compton/compton.conf &
